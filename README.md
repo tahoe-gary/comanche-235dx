@@ -54,7 +54,7 @@ The DeltaHawk DHK235 represents a very different approach.
 | Configuration   | Horizontally opposed six | Inverted V4              |
 | Cycle           | Four-stroke              | Two-stroke               |
 | Displacement    | ~540 cu in               | 202 cu in / 3.3 L        |
-| Rated power     | 250–260 hp               | 235 hp                   |
+| Rated power     | 250–260 hp               | 235 hp (continuous)      |
 | Fuel            | 100LL                    | Jet-A / Jet-A1           |
 | Aspiration      | Normally aspirated*      | Compound boosted         |
 | Cooling         | Air                      | Liquid                   |

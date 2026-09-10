@@ -2,7 +2,7 @@
 
 ### A Jet-A future for the Piper Comanche
 
-**Comanche 235DX** is an independent feasibility project exploring the installation of the **DeltaHawk DHK235** Jet-A piston engine in the **Piper PA-24-250 and PA-24-260-series Comanche**.
+**Comanche 235DX** is an independent feasibility project exploring the installation of the **[DeltaHawk DHK235](https://deltahawk.com/)** Jet-A piston engine in the **[Piper PA-24-250 and PA-24-260-series Comanche](https://en.wikipedia.org/wiki/Piper_PA-24_Comanche)**.
 
 The idea is simple:
 
@@ -381,6 +381,14 @@ The immediate priorities are:
 3. engage DeltaHawk
 4. identify an experienced STC/certification partner
 5. establish preliminary certification economics
+
+---
+
+# References
+
+* [Piper PA-24 Comanche — Wikipedia](https://en.wikipedia.org/wiki/Piper_PA-24_Comanche)
+* [DeltaHawk Engines](https://deltahawk.com/)
+* [DeltaHawk DHK Engine Family](https://deltahawk.com/engines/)
 
 ---
 

@@ -86,6 +86,8 @@ That creates an intriguing combination with the aerodynamically clean Comanche a
 
 Instead of merely burning less fuel at the same altitude, the 235DX could potentially operate efficiently in the mid-to-high teens while still producing substantial cruise power.
 
+Because the aircraft is unpressurized, sustained operation at these altitudes requires a supplemental oxygen system to comply with FAR 91.211.
+
 One of the primary goals of this project is therefore to model and eventually determine experimentally:
 
 **How fast can a PA-24 fly at altitude at the DHK235's best-economy setting — approximately 188 hp while burning roughly 10 gallons per hour of Jet-A?**
@@ -285,6 +287,7 @@ A turnkey aircraft might include:
 * modern Garmin avionics
 * digital autopilot
 * modern engine instrumentation
+* supplemental oxygen system
 * new windows
 * LED lighting
 * renewed interior

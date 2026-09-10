@@ -100,7 +100,7 @@ A successful 235DX conversion could offer:
 
 ### Jet-A
 
-Jet-A is widely available worldwide and avoids dependence on leaded aviation gasoline.
+Jet-A is widely available worldwide and avoids dependence on leaded aviation gasoline. This matters increasingly: the industry-wide effort to eliminate leaded 100LL (the FAA/EPA **EAGLE** initiative targets a transition away from leaded avgas by 2030) leaves the existing piston fleet facing an uncertain fuel future. A Jet-A powerplant sidesteps that problem entirely.
 
 ### Reduced fuel consumption
 
@@ -123,6 +123,8 @@ No manual mixture control or conventional leaning procedure.
 ### Liquid cooling
 
 More consistent engine temperatures and the possibility of coolant-based cabin heating rather than an exhaust heat exchanger.
+
+This is a meaningful safety improvement. Conventional aircraft draw cabin heat through a shroud around the exhaust, so any exhaust leak or muffler crack can admit carbon monoxide into the cabin. A coolant-based heater draws heat from the engine's liquid-cooling loop instead, eliminating that exhaust-to-cabin CO path and offering abundant, reliable heat.
 
 ### Mechanical simplicity
 

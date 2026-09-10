@@ -88,7 +88,7 @@ Instead of merely burning less fuel at the same altitude, the 235DX could potent
 
 One of the primary goals of this project is therefore to model and eventually determine experimentally:
 
-**How fast can a PA-24 fly at altitude with approximately 188 hp available while burning roughly 10 gallons per hour of Jet-A?**
+**How fast can a PA-24 fly at altitude at the DHK235's best-economy setting — approximately 188 hp while burning roughly 10 gallons per hour of Jet-A?**
 
 ---
 

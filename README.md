@@ -281,7 +281,7 @@ A turnkey aircraft might include:
 * DHK235 propulsion system
 * overhauled landing gear
 * restored flight controls
-* renewed electrical wiring
+* renewed electrical wiring (potentially including a 24V/28V conversion)
 * modern Garmin avionics
 * digital autopilot
 * modern engine instrumentation
@@ -312,6 +312,7 @@ Among them:
 * Can a new cowling reduce total aircraft drag?
 * What structural changes are required for the engine mount?
 * Are the existing fuel tanks and fuel-system components compatible with Jet-A, or must they be replaced?
+* Should the electrical system be converted to 24V/28V to support diesel starting and engine-control loads?
 
 **Performance**
 
@@ -335,37 +336,6 @@ Among them:
 * What percentage of owners would consider converting?
 * What firewall-forward price would the market support?
 * Does a turnkey remanufactured-aircraft business make economic sense?
-
----
-
-# Repository Structure
-
-```text
-comanche-235dx/
-├── README.md
-│
-├── docs/
-│   ├── proposal.md
-│   ├── feasibility.md
-│   ├── certification.md
-│   ├── market.md
-│   └── risks.md
-│
-├── engineering/
-│   ├── weight-and-balance.md
-│   ├── performance.md
-│   ├── cooling.md
-│   ├── engine-mount.md
-│   └── propeller.md
-│
-├── data/
-│   ├── engines/
-│   ├── airframes/
-│   └── performance/
-│
-└── references/
-    └── README.md
-```
 
 ---
 

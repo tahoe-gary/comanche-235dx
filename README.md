@@ -311,6 +311,7 @@ Among them:
 * What propeller diameter and blade configuration are optimal?
 * Can a new cowling reduce total aircraft drag?
 * What structural changes are required for the engine mount?
+* Are the existing fuel tanks and fuel-system components compatible with Jet-A, or must they be replaced?
 
 **Performance**
 
